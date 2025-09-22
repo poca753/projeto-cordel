@@ -4,3 +4,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Michroma&family=Sriracha&display=swap');
 
+@font-face {
+    font-family: Michroma;
+    src: url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+}
