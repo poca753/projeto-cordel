@@ -11,8 +11,8 @@
 
 :root{
     --fonte1: Verdana, Geneva, Tahona, Sans-serif;
-    --fonte2: "Dancing Script", "sans-serif"
-    --fonte3: "Oswald", "cursive"
+    --fonte2: "Dancing Script", "sans-serif";
+    --fonte3: "Oswald", "cursive";
 }
 *{
     margin: 0px;
